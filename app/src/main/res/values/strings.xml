@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Oturum İzni Rehberi</string>
+    <string name="title_documents">Gerekli Evraklar</string>
+    <string name="documents_list">
+        <![CDATA[
+1) Pasaport (aslı ve fotokopisi)
+2) Öğrenci belgesi (güncel, e-Devlet veya üniversite onaylı)
+3) Sağlık sigortası (geçerli poliçe)
+4) Biyometrik fotoğraf (4 adet)
+5) İkametgah belgesi veya kira kontratı
+6) Harç ve kart bedeli dekontları
+7) Başvuru formu (online başvuru sonrası alınır)
+        ]]>
+    </string>
+    <string name="title_link">Online Başvuru Linki</string>
+    <string name="application_link">https://e-ikamet.goc.gov.tr</string>
+    <string name="note_text">
+        <![CDATA[
+Not: Evrak listesi il ve üniversiteye göre değişebilir. Başvuru öncesinde Göç İdaresi ve üniversitenizden güncel bilgi alınız.
+        ]]>
+    </string>
+</resources>
